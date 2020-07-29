@@ -1,0 +1,16 @@
+{
+    "name": "Clima Console",
+    "version": "1.0.0",
+    "description": "Aplicación de consola para consultar el clima en diferentes cuidades o paises",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Hanzell Rivera",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "yargs": "^15.4.1"
+    }
+}
